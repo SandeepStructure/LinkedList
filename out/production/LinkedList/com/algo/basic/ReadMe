@@ -1,0 +1,10 @@
+In array You can not increase pre defined size
+Inserting data in middle is difficult
+
+Linked List ::
+Insert data any where
+No size limitation
+
+Node class::
+int data
+Node next
